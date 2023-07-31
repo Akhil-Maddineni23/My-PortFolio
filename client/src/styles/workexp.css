@@ -1,0 +1,68 @@
+.main-div-exp-content{
+  width : 100%;
+
+  height: 275px;
+  background-color: #f3f6f9;
+
+  padding-top: 10px;
+
+  display : flex;
+  justify-content: center;
+  align-items: center;
+  gap:20px;
+}
+  
+.left-exp-div{
+  height : 245px;
+  width : 350px;
+  display : flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.right-exp-div{
+  height : 245px;
+  width : 800px;
+  display : flex;
+  justify-content: start;
+  align-items: start;
+  flex-direction: column;
+}
+
+.left-exp-div .companyName{
+  font-family: avenir-lt-w01_85-heavy1475544, avenir-lt-w05_85-heavy;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.left-exp-div .role{
+  font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+  font-size: 20px;
+}
+
+.right-exp-div .role{
+ 
+  font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+  font-size: 25px;
+}
+
+.right-exp-div .timeline{
+  margin-top: 10px;
+  font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.right-exp-div .location{
+  margin-top: 10px;
+  font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.right-exp-div .des{
+  margin-top: 10px;
+  font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+  font-size: 20px;
+  font-weight: bold;
+}

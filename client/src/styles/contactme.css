@@ -1,0 +1,62 @@
+.main-div-contact-content{
+    width : 100%;
+    background-color: #f3f3f3;
+  
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+
+.inner-contact-div{
+    display : flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+}
+
+.inner-contact-div .role{
+    font-size: 20px;
+}
+  
+  
+.inner-contact-div .collage{
+margin-top: 15px;
+font-size: 20px;
+}
+
+.inner-contact-div .address{
+margin-top: 15px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.inner-contact-div .email{
+margin-top: 15px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.inner-contact-div .phoneNo{
+margin-top: 15px;
+font-size: 20px;
+font-weight: bold;
+}
+
+.contact-line {
+    width: 350px;
+    height: 2px; 
+    background-color: gray; 
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.contact-icons{
+    display : flex;
+    flex-direction: row;
+    gap: 20px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}

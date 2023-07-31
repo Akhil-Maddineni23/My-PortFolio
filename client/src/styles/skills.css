@@ -1,0 +1,63 @@
+.main-div-skills-content{
+
+    width : 100%;
+
+    height: auto;
+    background-color: #f3f6f9;
+    padding-bottom: 20px;
+    padding-top: 20px;
+   
+    display : grid;
+    gap:40px;
+    grid-template-columns: 0.75fr 1fr  1fr;
+}
+
+.header{
+    font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.left-skills-div{
+    display : flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right-skills-div{
+    margin-top: 10px;
+    display : flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap : 20px;
+
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.right-skills-div span{
+    display : block;
+    padding : 10px;
+    background-color: #A2FF86;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+/*
+.right-skills-div1{
+    margin-top: 10px;
+    margin-left: 150px;
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    gap : 20px;
+}
+
+.right-skills-div1 span{
+    display : block;
+    padding : 10px;
+    background-color: #A2FF86;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+*/

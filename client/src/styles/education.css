@@ -1,0 +1,66 @@
+.main-div-education-content{
+  width : 100%;
+  background-color: #f3f6f9;
+  padding-top: 10px;
+
+  display : flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap:10px;
+}
+
+.inner-education-div{
+    display : flex;
+    flex-direction: row;
+    margin-top: 20px;
+}
+
+.left-education-div{
+    width : 500px;
+    display : flex;
+    justify-content:start ;
+    align-items: center;
+}
+
+.education-line {
+    width: 1px; 
+    height: auto;
+    background-color: gray; 
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.right-education-div{
+    width : 500px;
+    display : flex;
+    justify-content:start ;
+    align-items: start;
+    flex-direction: column;
+    padding-left: 20px;
+}
+
+.left-education-div .collage{
+    margin-top: 10px;
+    font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+    font-size: 20px;
+}
+.right-education-div .course{
+    font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.right-education-div .grade{
+    margin-top: 10px;
+    font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+    font-size: 15px;
+}
+
+.right-education-div .timeline{
+    margin-top: 10px;
+    font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+    font-size: 15px;
+    font-weight: bold;
+}

@@ -1,0 +1,38 @@
+.commentPrint{
+    display: flex;
+    gap:10px;
+    margin-bottom: 15px;
+}
+.commentData{
+    width : 600px;
+    display : flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: start;
+    
+}
+#markRead-button{
+    width : 50px;
+    height : 30px;
+    font-size: 15px;
+    background-color: #A2FF86;
+    border-radius: 10px;
+    padding : 5px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.comment-deleteIcon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: static;
+}
+.readButton-deleteIcon{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap : 10px;
+}

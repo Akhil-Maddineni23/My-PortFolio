@@ -1,0 +1,28 @@
+.main-div-activities-content{
+    width : 100%;
+    background-color: #f3f6f9;
+    padding-top: 10px;
+    
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+}
+
+.inner-activities-div{
+    width : 700px;
+    font-family: avenir-lt-w01_35-light1475496, avenir-lt-w05_35-light;
+    display: flex;
+    align-items: center;
+}
+
+.activities-list{
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+}
+.activities-list li{
+    margin-bottom: 10px;
+    font-size: 20px;
+}
