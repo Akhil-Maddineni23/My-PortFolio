@@ -4,7 +4,7 @@ Thank you for visiting!
 
 
 ## Frameworks Used :
-* Frontend - React Js , HTML , CSS
+* Frontend - React Js , HTML , CSS , Material UI
 * Backend - Nodejs , Expressjs
 * Database - MongoDB
 * Database Querying - Mongoose
