@@ -2,6 +2,7 @@ export const skills = {
   pl: ["C", "C++", "Python", "JavaScript", "SQL"],
   fl: [
     "React.js",
+    "Redux",
     "Node.js",
     "Express.js",
     "MongoDB",
@@ -57,12 +58,11 @@ export const projects = [
     appLink : 'https://password-notes-app.netlify.app/'
   },
   {
-    title : 'File Explorer using React',
-    description : `Created a File Explorer using React based on custom data and added additional functions to
-    create directories and files in the explorer. further included the ability to rename and delete
-    files and directories.`,
+    title : 'FrontEnd - UI Challenges',
+    description : `Rather of importing straight functionality, a few UI components were implemented using
+    solely React, HTML and CSS.`,
     tools : `React, HTML, CSS, Netlify`,
-    appLink : 'https://lambent-mochi-f0f307.netlify.app'
+    appLink : 'https://frontend-ui-challenges.netlify.app'
   },
   {
     title : 'Fetching data using API’s and Rendering using React',
@@ -81,10 +81,7 @@ export const projects = [
     and OpenCV.`,
     tools : `Opencv, Matplotlib, Pandas , JSON`,
     appLink : ''
-  },
-
-
-  
+  }, 
 ]
 
 export const activities = [
