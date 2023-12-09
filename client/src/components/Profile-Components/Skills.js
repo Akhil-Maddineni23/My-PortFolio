@@ -21,7 +21,7 @@ export const Skills = () => {
 
         <div className="div2">
           <div className="left-skills-div">
-            <span className="header">FrameWorks/Libraries</span>
+            <span className="header">Technical Proficiency</span>
           </div>
           <div className="right-skills-div">
           {
@@ -34,7 +34,7 @@ export const Skills = () => {
 
         <div className="div3">
           <div className="left-skills-div">
-            <span className="header">Miscellaneous</span>
+            <span className="header">Web Technologies/Fw’s</span>
           </div>
           <div className="right-skills-div">
           {
