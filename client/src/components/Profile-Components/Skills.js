@@ -34,7 +34,7 @@ export const Skills = () => {
 
         <div className="div3">
           <div className="left-skills-div">
-            <span className="header">Web Technologies/Fw’s</span>
+            <span className="header">Hands on Experience</span>
           </div>
           <div className="right-skills-div">
           {
