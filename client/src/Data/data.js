@@ -19,15 +19,15 @@ export const skills = {
     "Express",
     "MongoDB", 
     "Mongoose", 
-    "REST API’s", 
-    "GraphQL Api",
+    "REST Architecture", 
+    "Jest",
+    "Phaser",
     "Docker", 
     "Kubernetes", 
-    "Jest", 
-    "NATS"
+    "Pandas",
+    "Opencv"
   ],
 };
-
 export const projects = [
   {
     title : 'Cricket Live Score Panel',
